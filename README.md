@@ -1,12 +1,10 @@
-# Geerating an ERC721 Markobot Contract
-
+# Generating an ERC721 Markobot Contract
 
 There is an ERC721 contract generator to regenerate a new  Soldiity contract on Rinkeby Testnet 
 
 in support of the [Bot Dapp project](https://github.com/markvelous/botdapp) 
 
 There are 11 unique NFTs stored in Pinata IPFS in support of this project
-
 
 Set up a .env file with the following lines:
 
